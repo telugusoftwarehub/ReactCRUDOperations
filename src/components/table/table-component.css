@@ -1,0 +1,13 @@
+table {
+    width: 600px;
+    margin: 0 auto;   
+}
+
+table thead tr{
+    background-color: rgb(12, 1, 52);
+    color: #ffffff;
+}
+
+table tbody tr:nth-child(even) {
+    background-color: #cfcfcf;
+}

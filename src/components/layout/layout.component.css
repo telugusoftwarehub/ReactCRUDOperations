@@ -1,0 +1,15 @@
+ul {
+    list-style: none;
+    display: flex;
+    width: 700px;
+    margin: 0 auto
+}
+
+ul li a {
+    padding: 10px;
+    background-color: black;
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 5px;
+    font-size: 16px;
+}
